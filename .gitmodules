@@ -1,0 +1,27 @@
+[submodule "Game-JDVELH-MSDOS-TurboPascal"]
+	path = Game-JDVELH-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-JDVELH-MSDOS-TurboPascal.git
+[submodule "Game-Isola-MSDOS-TurboPascal"]
+	path = Game-Isola-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Isola-MSDOS-TurboPascal.git
+[submodule "Game-LodeRunner-MSDOS-TurboPascal"]
+	path = Game-LodeRunner-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-LodeRunner-MSDOS-TurboPascal.git
+[submodule "Game-Copter-MSDOS-TurboPascal"]
+	path = Game-Copter-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Copter-MSDOS-TurboPascal.git
+[submodule "Game-Laby-MSDOS-TurboPascal"]
+	path = Game-Laby-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Laby-MSDOS-TurboPascal.git
+[submodule "Game-LogAlpha-MSDOS-TurboPascal"]
+	path = Game-LogAlpha-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-LogAlpha-MSDOS-TurboPascal.git
+[submodule "Game-Demineur-MSDOS-TurboPascal"]
+	path = Game-Demineur-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Demineur-MSDOS-TurboPascal.git
+[submodule "Game-StrategieFlore-MSDOS-TurboPascal"]
+	path = Game-StrategieFlore-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-StrategieFlore-MSDOS-TurboPascal.git
+[submodule "Game-Pendu-MSDOS-TurboPascal"]
+	path = Game-Pendu-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Pendu-MSDOS-TurboPascal.git
