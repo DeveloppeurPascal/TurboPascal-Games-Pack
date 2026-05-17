@@ -38,7 +38,7 @@ git submodule init
 git submodule update --remote
 ```
 
-[Ce dépôt de code](https://github.com/DeveloppeurPascal/TurboPascal-Games-Pack) et tous ses sous-projets sont disponibles sur [mon compte GitHub](https://github.com/DeveloppeurPascal).
+[Ce dépôt de code](https://github.com/DeveloppeurPascal/TurboPascal-Games-Pack) est téléchargeable depuis [mon compte GitHub](https://github.com/DeveloppeurPascal).
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
